@@ -5,5 +5,13 @@ public class hello{
             System.out.println("i = " + i);
             i++;
         }
+        for (int i=0; i < 10; i++){
+            int j = j + i;
+        }
+        return j;
+  
+        // Asad was here
+        // I messed up the code
+
     }
 }
