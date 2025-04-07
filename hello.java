@@ -5,6 +5,7 @@ public class hello{
             System.out.println("i = " + i);
             i++;
         }
+        int j = 0;
         for (int i=0; i < 10; i++){
             int j = j + i;
         }
