@@ -1,6 +1,7 @@
 public class hello{
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
+    publi static void main(String[] args) {
+        System.out.prin("Hello, World!");
         // Asad was here
+        // I messed up the code
     }
 }
